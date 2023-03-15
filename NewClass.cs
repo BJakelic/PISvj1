@@ -10,7 +10,6 @@ namespace ConsoleApp25
     {
         void method()
         { 
-            Console.WriteLine("Novo");
         }
     }
 }
