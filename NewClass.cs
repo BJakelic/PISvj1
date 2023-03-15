@@ -8,5 +8,8 @@ namespace ConsoleApp25
 {
     class NewClass
     {
+        void method()
+        { 
+        }
     }
 }
